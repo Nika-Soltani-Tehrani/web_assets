@@ -1,0 +1,8 @@
+uvicorn~=0.20.0
+fastapi~=0.89.1
+databases~=0.7.0
+fastapi_users
+pydantic~=1.10.4
+passlib~=1.7.4
+SQLAlchemy~=1.4.46
+jose~=1.0.0
